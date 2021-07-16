@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MySql.Data" Version="8.0.25" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Autofac.AttributeExtensions\Autofac.AttributeExtensions.csproj" />
+    <ProjectReference Include="..\UserCenter.common\UserCenter.Common.csproj" />
+    <ProjectReference Include="..\UserCenter.IRepository\UserCenter.IRepository.csproj" />
+  </ItemGroup>
+
+</Project>

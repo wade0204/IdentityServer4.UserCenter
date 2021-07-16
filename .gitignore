@@ -1,0 +1,25 @@
+﻿################################################################################
+# 此 .gitignore 文件已由 Microsoft(R) Visual Studio 自动创建。
+################################################################################
+
+/usercenter/.vs/usercenter
+/usercenter/Authentication/bin/Debug/net5.0
+/usercenter/Authentication/obj
+*.user
+/usercenter/autofac.attributeExtensions/bin/Debug/netstandard2.1
+/usercenter/autofac.attributeExtensions/obj
+/usercenter/usercenter/bin/Debug/net5.0
+/usercenter/usercenter/obj
+/usercenter/usercenter.common/bin/Debug/netstandard2.1
+/usercenter/usercenter.common/obj
+/usercenter/usercenter.IRepository/bin/Debug/netstandard2.1
+/usercenter/usercenter.IRepository/obj/Debug/netstandard2.1
+/usercenter/usercenter.IRepository/obj
+/usercenter/usercenter.IService/bin/Debug/netstandard2.1
+/usercenter/usercenter.IService/obj
+/usercenter/usercenter.Repository/bin/Debug/netstandard2.1
+/usercenter/usercenter.Repository/obj
+/usercenter/usercenter.Service/bin/Debug/netstandard2.1
+/usercenter/usercenter.Service/obj
+/usercenter/AccessTokenValidationCore/bin/Debug/net5.0
+/usercenter/AccessTokenValidationCore/obj
