@@ -1,13 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Reflection;
-using System.Threading.Tasks;
-using Authentication.Validator;
+﻿using Authentication.Validator;
 using IdentityServer4.Services;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.DependencyInjection.Extensions;
+using System;
+using System.Reflection;
 using UserCenter.Common;
 
 namespace Authentication.Extensions
